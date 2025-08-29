@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
+                texto:  "O futuro está na agricultura regenerativa, com foco na preservação ambiental, na redução do uso de químicos e na adoção de práticas que promovam a saúde do solo..",
                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
             }    
            
